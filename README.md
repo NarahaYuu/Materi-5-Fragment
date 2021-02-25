@@ -17,6 +17,8 @@ Fragment memiliki banyak method yang dapat di override seperti halnya Activity:
     onDestroy() dipanggil jika fragment sudah tidak dipakai.
     onDetach() dipanggil saat fragment tidak lagi terhubung ke sebuah activity.
 
+![lifecycle fragmetn](https://user-images.githubusercontent.com/62680911/109180584-99ee7d00-77bd-11eb-81b0-daae8c3da5a4.png)
+
 
 ![Materi-5-Fragment1](https://user-images.githubusercontent.com/62680911/109179369-65c68c80-77bc-11eb-8d5d-698a1a79b515.jpg)
 ![Materi-5-Fragment2](https://user-images.githubusercontent.com/62680911/109179712-c1911580-77bc-11eb-94aa-a497b3abdf4d.jpg)
